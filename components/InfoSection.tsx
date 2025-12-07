@@ -31,14 +31,14 @@ export function InfoSection() {
 
         <div>
           <h2 className="text-2xl md:text-3xl font-bold text-excel-blue mb-4">
-            So funktioniert's
+            So funktioniert&apos;s
           </h2>
           <ol className="list-decimal list-inside space-y-3 text-gray-700">
             <li>
               Beschreibe dein Problem in normaler Sprache im Textfeld oben
             </li>
             <li>
-              Klicke auf "Formel generieren" und warte wenige Sekunden
+              Klicke auf &quot;Formel generieren&quot; und warte wenige Sekunden
             </li>
             <li>
               Erhalte die fertige Formel, die du direkt in Excel oder Google
