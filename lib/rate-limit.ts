@@ -6,7 +6,7 @@ export interface RateLimitResult {
   limit: number;
 }
 
-const FREE_USER_DAILY_LIMIT = 5;
+const FREE_USER_DAILY_LIMIT = 3;
 
 /**
  * Prüft Rate Limit für einen Nutzer
